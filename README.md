@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Fan Shiming
 
-<!--
-**fsmss/fsmss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🧑‍💻 **Master's Student** @ **SDTBU**
+- 🔍 **Research**: Data Mining & Large Language Models (LLMs)
+- 🌱 **Learning**: Advanced Deep Learning & Time Series Analysis
+- 🏀 **Life**: Sports enthusiast | Basketball 🏀 | Traveling ✈️ | Open to new friends 🤝
+- 💬 Ask me about **Data Science** or **AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools (技能树)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+---
+
+### 🐍 Contribution Activity (贡献贪吃蛇)
+
+![](https://raw.githubusercontent.com/Hank0626/Hank0626/main/assets/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🤝 Connect with Me (联系我)
+
+<p align="left">
+<a href="https://www.xiaohongshu.com/user/profile/6389b6f9000000001f01dc24" target="_blank">
+  <img src="https://img.shields.io/badge/Xiaohongshu-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
+</a>
+  <a href="mailto:fanshiming618@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.tide-lab.cn/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+</p>
+
