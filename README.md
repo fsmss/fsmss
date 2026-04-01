@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠 Tech Stack & Tools (技能树)
+### 🛠 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -21,14 +21,12 @@
 
 ---
 
-### 🐍 Contribution Activity (贡献贪吃蛇)
-
+### 🐍 Contribution Activity
 ![](https://raw.githubusercontent.com/Hank0626/Hank0626/main/assets/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### 🤝 Connect with Me (联系我)
-
+### 🤝 Connect with Me 
 <p align="left">
 <a href="https://www.xiaohongshu.com/user/profile/6389b6f9000000001f01dc24" target="_blank">
   <img src="https://img.shields.io/badge/Xiaohongshu-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
